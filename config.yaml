@@ -1,7 +1,6 @@
-baseURL: "https://sambidwasti.github.io/hugotest/"
-#baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://sambidwasti.github.io/hugotest/" #baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Noname"
+title: "HugoTest"
 theme: hugo-profile
 canonifyURLs: true
 
