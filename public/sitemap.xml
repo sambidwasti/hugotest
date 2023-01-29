@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sambidwasti.github.io/hugotest/blogs/</loc>
+    <loc>www.example.com/blogs/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://sambidwasti.github.io/hugotest/tags/example/</loc>
+    <loc>www.example.com/tags/example/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://sambidwasti.github.io/hugotest/tags/markdown-syntax/</loc>
+    <loc>www.example.com/tags/markdown-syntax/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://sambidwasti.github.io/hugotest/tags/mathjax/</loc>
+    <loc>www.example.com/tags/mathjax/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://sambidwasti.github.io/hugotest/</loc>
+    <loc>www.example.com/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://sambidwasti.github.io/hugotest/blogs/math/</loc>
+    <loc>www.example.com/blogs/math/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://sambidwasti.github.io/hugotest/tags/</loc>
+    <loc>www.example.com/tags/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://sambidwasti.github.io/hugotest/gallery/</loc>
+    <loc>www.example.com/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>https://sambidwasti.github.io/hugotest/blogs/markdown-syntax/</loc>
+    <loc>www.example.com/blogs/markdown-syntax/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://sambidwasti.github.io/hugotest/tags/sample/</loc>
+    <loc>www.example.com/tags/sample/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://sambidwasti.github.io/hugotest/tags/emoji-support/</loc>
+    <loc>www.example.com/tags/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>https://sambidwasti.github.io/hugotest/blogs/emoji-support/</loc>
+    <loc>www.example.com/blogs/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>https://sambidwasti.github.io/hugotest/tags/placeholder-text/</loc>
+    <loc>www.example.com/tags/placeholder-text/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>https://sambidwasti.github.io/hugotest/blogs/placeholder-text/</loc>
+    <loc>www.example.com/blogs/placeholder-text/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>https://sambidwasti.github.io/hugotest/tags/rich-content/</loc>
+    <loc>www.example.com/tags/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://sambidwasti.github.io/hugotest/blogs/rich-content/</loc>
+    <loc>www.example.com/blogs/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://sambidwasti.github.io/hugotest/categories/</loc>
+    <loc>www.example.com/categories/</loc>
   </url>
 </urlset>
